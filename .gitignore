@@ -7,4 +7,6 @@
 !/hypr/
 !/rofi/
 !/waybar/
+!/screenshots/
+!readme.md
 !starship.toml

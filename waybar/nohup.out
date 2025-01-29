@@ -1,0 +1,155 @@
+
+(waybar:4899): Gtk-WARNING **: 12:15:40.876: Theme parsing error: gtk.css:16:37: Missing semicolon at end of color definition
+
+(waybar:4899): Gtk-WARNING **: 12:15:40.876: Theme parsing error: gtk.css:18:35: Missing semicolon at end of color definition
+
+(waybar:4899): Gtk-WARNING **: 12:15:40.876: Theme parsing error: gtk.css:20:40: Missing semicolon at end of color definition
+
+(waybar:4899): Gtk-WARNING **: 12:15:40.876: Theme parsing error: gtk.css:23:46: Missing semicolon at end of color definition
+
+(waybar:4899): Gtk-WARNING **: 12:15:40.876: Theme parsing error: gtk.css:26:35: Missing semicolon at end of color definition
+
+(waybar:4899): Gtk-WARNING **: 12:15:40.876: Theme parsing error: gtk.css:29:37: Missing semicolon at end of color definition
+
+(waybar:4899): Gtk-WARNING **: 12:15:40.876: Theme parsing error: gtk.css:31:38: Missing semicolon at end of color definition
+
+(waybar:4899): Gtk-WARNING **: 12:15:40.876: Theme parsing error: gtk.css:36:40: Missing semicolon at end of color definition
+
+(waybar:4899): Gtk-WARNING **: 12:15:40.876: Theme parsing error: gtk.css:40:44: Missing semicolon at end of color definition
+
+(waybar:4899): Gtk-WARNING **: 12:15:40.876: Theme parsing error: gtk.css:44:54: Missing semicolon at end of color definition
+[2024-09-29 12:15:40.892] [info] Using configuration file /home/ip/.config/waybar/config.jsonc
+[2024-09-29 12:15:40.894] [info] Using CSS file /home/ip/.config/waybar/style.css
+[2024-09-29 12:15:40.898] [info] Hyprland IPC starting
+[2024-09-29 12:15:40.898] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-29 12:15:40.910] [info] Bar configured (width: 52, height: 780) for output: DP-1
+
+(waybar:11644): Gtk-WARNING **: 14:03:31.695: Theme parsing error: gtk.css:16:37: Missing semicolon at end of color definition
+
+(waybar:11644): Gtk-WARNING **: 14:03:31.695: Theme parsing error: gtk.css:18:35: Missing semicolon at end of color definition
+
+(waybar:11644): Gtk-WARNING **: 14:03:31.695: Theme parsing error: gtk.css:20:40: Missing semicolon at end of color definition
+
+(waybar:11644): Gtk-WARNING **: 14:03:31.695: Theme parsing error: gtk.css:23:46: Missing semicolon at end of color definition
+
+(waybar:11644): Gtk-WARNING **: 14:03:31.695: Theme parsing error: gtk.css:26:35: Missing semicolon at end of color definition
+
+(waybar:11644): Gtk-WARNING **: 14:03:31.695: Theme parsing error: gtk.css:29:37: Missing semicolon at end of color definition
+
+(waybar:11644): Gtk-WARNING **: 14:03:31.695: Theme parsing error: gtk.css:31:38: Missing semicolon at end of color definition
+
+(waybar:11644): Gtk-WARNING **: 14:03:31.695: Theme parsing error: gtk.css:36:40: Missing semicolon at end of color definition
+
+(waybar:11644): Gtk-WARNING **: 14:03:31.695: Theme parsing error: gtk.css:40:44: Missing semicolon at end of color definition
+
+(waybar:11644): Gtk-WARNING **: 14:03:31.695: Theme parsing error: gtk.css:44:54: Missing semicolon at end of color definition
+[2024-12-02 14:03:31.711] [info] Using configuration file /home/ip/.config/waybar/config.jsonc
+[2024-12-02 14:03:31.712] [info] Using CSS file /home/ip/.config/waybar/style.css
+[2024-12-02 14:03:31.716] [info] Hyprland IPC starting
+[2024-12-02 14:03:31.717] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-02 14:03:31.725] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-02 14:03:31.754] [info] Bar configured (width: 100, height: 1580) for output: DP-1
+[2024-12-02 14:03:31.754] [info] Bar configured (width: 100, height: 1900) for output: DP-2
+[2024-12-18 06:13:56.347] [info] Using configuration file /home/ip/.config/waybar/config.jsonc
+[2024-12-18 06:13:56.349] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2024-12-18 06:13:56.349] [info] Using CSS file /home/ip/.config/waybar/style.css
+[2024-12-18 06:13:56.353] [info] Hyprland IPC starting
+[2024-12-18 06:13:56.353] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-18 06:13:56.399] [info] Bar configured (width: 58, height: 1200) for output: eDP-1
+[2024-12-18 06:14:20.582] [warning] [wireplumber]: (onMixerChanged) - Object with id 89 not found
+[2024-12-18 06:14:20.587] [warning] [wireplumber]: (onMixerChanged) - Object with id 89 not found
+[2024-12-18 06:14:20.866] [warning] [wireplumber]: (onMixerChanged) - Object with id 89 not found
+
+** (waybar:2330): WARNING **: 06:15:30.778: Status Notifier Host with bus name ':1.79' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:2330): WARNING **: 06:15:37.709: Status Notifier Host with bus name ':1.79' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:2330): WARNING **: 06:17:16.439: Status Notifier Host with bus name ':1.79' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:2330): WARNING **: 06:17:31.380: Status Notifier Host with bus name ':1.79' and object path '/StatusNotifierHost/0' is already registered
+[2024-12-18 23:14:05.347] [info] Using configuration file /home/ip/.config/waybar/config.jsonc
+[2024-12-18 23:14:05.349] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2024-12-18 23:14:05.349] [info] Using CSS file /home/ip/.config/waybar/style.css
+[2024-12-18 23:14:05.353] [info] Hyprland IPC starting
+[2024-12-18 23:14:05.354] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-18 23:14:05.419] [info] Bar configured (width: 58, height: 1200) for output: eDP-1
+[2024-12-18 23:15:39.390] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-18 23:15:39.392] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-18 23:17:10.451] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-18 23:17:10.454] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:00:36.056] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:00:36.065] [info] Bar configured (width: 58, height: 1167) for output: eDP-1
+[2024-12-19 00:00:36.065] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:01:28.110] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:01:28.112] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:01:28.363] [info] Bar configured (width: 58, height: 1200) for output: eDP-1
+[2024-12-19 00:01:59.162] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:01:59.163] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:02:11.212] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:02:11.215] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:02:36.264] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:02:36.266] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:04:46.874] [warning] [wireplumber]: (onMixerChanged) - Object with id 86 not found
+[2024-12-19 00:04:46.882] [warning] [wireplumber]: (onMixerChanged) - Object with id 86 not found
+[2024-12-19 00:04:46.884] [warning] [wireplumber]: (onMixerChanged) - Object with id 86 not found
+[2024-12-19 00:05:15.798] [warning] [wireplumber]: (onMixerChanged) - Object with id 95 not found
+[2024-12-19 00:05:15.806] [warning] [wireplumber]: (onMixerChanged) - Object with id 95 not found
+[2024-12-19 00:05:15.813] [warning] [wireplumber]: (onMixerChanged) - Object with id 95 not found
+
+(waybar:18642): GLib-GIO-WARNING **: 00:11:27.734: Received property Menu with type s does not match expected type o in the expected interface
+[2024-12-19 00:12:39.432] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:12:39.434] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:12:41.487] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:12:41.489] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:14:43.560] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:14:43.562] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:15:39.620] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:15:39.622] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:17:04.687] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:17:04.689] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:17:22.744] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:17:22.746] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:17:32.793] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:17:32.801] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:18:24.858] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:18:24.861] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:20:15.932] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:20:15.935] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:20:24.981] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:20:24.984] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:40:39.253] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:40:39.256] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:41:09.318] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:41:09.321] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:42:03.373] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:42:03.376] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:42:14.423] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:42:14.426] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:43:29.486] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:43:29.488] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:45:06.553] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:45:06.555] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:45:29.605] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:45:29.607] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:46:03.662] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:46:03.664] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:46:32.715] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:46:32.716] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:46:46.772] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:46:46.774] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:49:49.915] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:49:49.920] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:49:53.970] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:49:53.973] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 00:58:41.117] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 00:58:41.126] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 01:00:25.209] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 01:00:25.211] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 01:06:31.343] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 01:06:31.345] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-19 01:08:33.415] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-19 01:08:33.417] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:18642): WARNING **: 01:08:40.337: Status Notifier Host with bus name ':1.93' and object path '/StatusNotifierHost/0' is already registered
+
+(waybar:18642): GLib-GIO-WARNING **: 01:08:40.342: Received property Menu with type s does not match expected type o in the expected interface

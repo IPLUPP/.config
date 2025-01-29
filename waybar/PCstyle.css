@@ -1,0 +1,120 @@
+* {
+	font-family: Fira Code Nerd Font;
+	min-height: 68px; /* Doubled */
+	min-width: 68px;  /* Doubled */
+	border-radius: 0px;
+	margin-bottom: 2px; /* Doubled */
+	transition-delay: 0s;
+}
+
+@define-color background_box rgba(80,80,80,.1);
+@define-color border_box #606060; /* border and shadow color */
+@define-color background_active_box rgba(180, 180, 240,0.3);
+@define-color theme_base_color rgba(217,217,217,255);
+window#waybar {
+ 	background: alpha(@theme_base_color,0.7);
+    border: 4px solid #606060; /* Doubled */
+}
+
+tooltip {
+	background: alpha(@theme_base_color,0.5);
+	border: 4px solid @border_box; /* Doubled */
+	border-radius: 0px;
+}
+
+tooltip label {
+	font-family: SF Pro Display;
+	font-size: 28px; /* Doubled */
+	color: #FFFFFF;
+}
+
+#custom-ddcutil {
+	font-size: 28px;
+	border: 4px solid @border_box; /* Doubled */
+   	background-color: @background_box;
+    border-bottom: 0px;
+    /*border-radius: 6px 6px 0px 0px;*/
+    margin-left: 12px; /* Doubled */
+    margin-right: 12px; /* Doubled */
+    margin-top: 12px; /* Doubled */
+    margin-bottom: -2px; /* Doubled */
+}
+
+#wireplumber {
+	font-size: 28px;
+	border: 4px solid @border_box; /* Doubled */
+   	background-color: @background_box;
+    /*border-radius: 0px 0px 6px 6px;*/
+    border-top:0px;
+    margin-left: 12px; /* Doubled */
+    margin-right: 12px; /* Doubled */
+    margin-bottom: 12px; /* Doubled */
+}
+
+#privacy {
+	border: 4px solid @border_box; /* Doubled */
+   	background-color: @background_box;
+    /*border-radius: 0px 0px 6px 6px;*/
+    border-top:0px;
+    margin-left: 12px; /* Doubled */
+    margin-right: 12px; /* Doubled */
+    margin-bottom: 12px; /* Doubled */
+}
+
+#tray {
+	margin-bottom: 16px; /* Doubled */
+}
+
+/* Group Center */
+
+#clock {
+	border: none;
+	background: transparent;
+	min-height: 140px; /* Doubled */
+    margin-right: 12px; /* Doubled */
+    margin-left: 12px;  /* Doubled */
+    font-weight: Bold;
+    font-size: 36px; /* Doubled */
+}
+
+#mpris {
+	border: 4px solid @border_box; /* Doubled */
+   	background-color: @background_box;
+    border-radius: 0px;
+	font-size: 36px; /* Doubled */
+	margin-top: -8px; /* Doubled */
+    margin-left: 12px; /* Doubled */
+    margin-right: 12px; /* Doubled */
+    padding-top: 16px; /* Doubled */
+    padding-bottom: 0px;
+	transition-delay: 0s;
+	transition: 0.5s;
+}
+
+#mpris.playing {
+	background-color: @background_active_box;
+}
+
+#workspaces {
+	background-color: @background_box;
+	border: 4px solid @border_box; /* Doubled */
+	margin-top: 20px; /* Doubled */
+    margin-left: 12px; /* Doubled */
+    margin-right: 12px; /* Doubled */
+	font-size: 40px; /* Doubled */
+}
+
+#workspaces button {
+	margin-left: -44px; /* Doubled */
+	margin-right: -28px; /* Doubled */
+	margin-top: -6px; /* Doubled */
+	margin-bottom: -6px; /* Doubled */
+	color: rgba(255, 255, 255, 0.3);
+	transition-delay: 0s;
+	transition: 0.5s;
+}
+
+#workspaces button.active {	
+	color: #FFFFFF;
+}
+

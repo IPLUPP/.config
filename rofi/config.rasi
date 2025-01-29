@@ -1,0 +1,107 @@
+
+* {
+  background-color: transparent;
+
+  /*font: "SF Pro Display Light 14";*/
+  font: "SF Pro Rounded Light 20";
+
+}
+
+
+configuration {
+	modes: "drun";
+}
+window {
+	padding: 1em;
+	border-radius: 8px;
+	border: 2px;
+
+	border-color: #A0A0A0;
+	background-color: #d9d9d9;
+	location:   east;
+	width:   500px;
+	x-offset:   0px; 
+
+	height: 100%;
+}
+
+mainbox {
+  spacing: 0px;
+  children: [message,inputbar,listview];
+}
+
+element {
+  background: transparent;
+  children: [ element-icon, element-text ];
+}
+
+inputbar {
+  margin: 20px 0px;
+  border-radius: 0px;
+
+  border:        1px;
+  background-color: #DEDEDE;
+  border-color: #A0A0A0;
+  children: [entry,overlay];
+}
+
+
+listview {
+  border: 10px;
+  spacing: 4px;
+  border-radius: 0px;
+  background-color: transparent;
+  scrollbar:    true;
+}
+
+listview, scrollbar {
+  handle-color:	#A0A0A0;
+  handle-width: 4px;
+}
+
+listview, message {
+  border:  0px;
+  border-radius: 0px;
+  background-color: transparent;
+
+  columns: 1;
+  lines:   7;
+}
+
+element {
+    border:  1px;
+    border-radius: 6px;
+    padding: 6px;
+    border-color: #A0A0A0;
+}
+
+element-text {
+    text-color: #383838;
+    padding: 10px;
+}
+
+element normal.normal {
+    background-color: transparent;
+    border: 0px;
+}
+element.alternate.normal {
+    background-color: transparent;
+    border: 0px;
+
+}
+element.selected.normal {
+    background-color: #D2D2D2;
+    border-color: #606060;
+    border: 0px;
+}
+
+entry {
+     
+    font: "SF Pro Rounded Light 30";
+    placeholder: "";
+    border-color: transparent;
+    background-color: transparent;
+    border:        20px;
+    text-color: #383838;
+    cursor-width: 0px;
+}

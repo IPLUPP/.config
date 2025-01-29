@@ -1,0 +1,10 @@
+/*
+!.gitignore
+!/alacritty/
+!/fastfetch/
+!/fish/
+!/foot/
+!/hypr/
+!/rofi/
+!/waybar/
+!starship.toml
